@@ -1,0 +1,11 @@
+C:\Users\Тоха\source\repos\ChartLaba\ChartLaba\bin\Debug\ChartLaba.exe.config
+C:\Users\Тоха\source\repos\ChartLaba\ChartLaba\bin\Debug\ChartLaba.exe
+C:\Users\Тоха\source\repos\ChartLaba\ChartLaba\bin\Debug\ChartLaba.pdb
+C:\Users\Тоха\source\repos\ChartLaba\ChartLaba\obj\Debug\ChartLaba.csprojAssemblyReference.cache
+C:\Users\Тоха\source\repos\ChartLaba\ChartLaba\obj\Debug\ChartLaba.Form1.resources
+C:\Users\Тоха\source\repos\ChartLaba\ChartLaba\obj\Debug\ChartLaba.Properties.Resources.resources
+C:\Users\Тоха\source\repos\ChartLaba\ChartLaba\obj\Debug\ChartLaba.csproj.GenerateResource.cache
+C:\Users\Тоха\source\repos\ChartLaba\ChartLaba\obj\Debug\ChartLaba.csproj.CoreCompileInputs.cache
+C:\Users\Тоха\source\repos\ChartLaba\ChartLaba\obj\Debug\ChartLaba.exe
+C:\Users\Тоха\source\repos\ChartLaba\ChartLaba\obj\Debug\ChartLaba.pdb
+C:\Users\Тоха\source\repos\ChartLaba\ChartLaba\obj\Debug\ChartLaba.Form2.resources
